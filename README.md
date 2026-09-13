@@ -1,3 +1,14 @@
+# Artificial Intelligence – Assignment #1
+### Python Basics: From First Program to If-Else and Loops
+
+**Name:** Sajad Ali
+**Roll No:** 38
+**Semester:** 5th
+**Course:** Artificial Intelligence
+**Assignment:** Lab 01 – Python Basics
+**Notebook Environment:** Google Colab
+
+## Description
 This assignment covers the fundamentals of Python programming as a foundation for 
 Artificial Intelligence coursework. It includes writing and running simple Python 
 programs, working with variables, data types, input handling, and type conversion, 
@@ -10,4 +21,4 @@ every practice question, organized topic-wise, followed by combined lab challeng
 that connect basic Python logic with simple AI-style rule-based problem solving.
 
 All cells were executed from top to bottom after restarting the runtime, and the 
-outputs are visible for each cell.# AI-Assignment-1-PYTHON-CODING
+outputs are visible for each cell.
